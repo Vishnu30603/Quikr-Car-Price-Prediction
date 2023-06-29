@@ -9,19 +9,27 @@ Price: The price of the car
 Kms Driven: The number of kilometers driven by the car                                                                                 
 Fuel Type: The type of fuel used by the car                                                                                            
 Initially, the dataset required cleaning to remove any inconsistencies or missing values.
-# Importing the libraries
+# Steps Involved 
+# 1.Importing the libraries
 The necessary libraries and dependencies are imported to perform the analysis and modeling.
-# Importing the dataset
+# 2.Importing the dataset
 The dataset is imported into the project for further processing.
-# Data Cleaning
+# 3.Data Cleaning
 The dataset undergoes a data cleaning process to handle any inconsistencies or missing values.
-# Exploratory Data Analysis
+# 4.Exploratory Data Analysis
 An exploratory analysis of the dataset is performed to gain insights and understand the relationships between the variables.
-# Data Preprocessing
+# 5.Data Preprocessing
 Categorical variables are encoded using suitable techniques to prepare the data for model training.
-# Train-Test Split
+# 6.Train-Test Split
 The dataset is divided into training and test sets to evaluate the performance of the models.
-# Model Training and Evaluation
+# 7.Model Training and Evaluation
 Regression models are trained on the training set and evaluated on test set using the R2 score as the evaluation metric.
-
+# Dependencies
+The project relies on the following libraries:                                                                                          
+1.NumPy                                                                                                                                 
+2.Pandas                                                                                                                                
+3.Matplotlib                                                                                                                            
+4.Seaborn                                                                                                                               
+5.Scikit-learn                                                                                                                          
+Make sure to have these libraries installed before running the project.
 
