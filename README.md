@@ -15,7 +15,7 @@ The necessary libraries and dependencies are imported to perform the analysis an
 # 2.Importing the dataset
 The dataset is imported into the project for further processing.
 # 3.Data Cleaning
-The dataset undergoes a data cleaning process to handle any inconsistencies or missing values.
+The dataset undergoes a data-cleaning process to handle any inconsistencies or missing values.
 # 4.Exploratory Data Analysis
 An exploratory analysis of the dataset is performed to gain insights and understand the relationships between the variables.
 # 5.Data Preprocessing
@@ -23,7 +23,9 @@ Categorical variables are encoded using suitable techniques to prepare the data 
 # 6.Train-Test Split
 The dataset is divided into training and test sets to evaluate the performance of the models.
 # 7.Model Training and Evaluation
-Regression models are trained on the training set and evaluated on test set using the R2 score as the evaluation metric.
+Regression models are trained on the training set and evaluated on the test set using the R2 score as the evaluation metric.
+# 8.Hyperparameter Tuning
+The hyperparameters of the chosen regression model are tuned using techniques such as GridSearchCV to optimize the model's performance.
 # Dependencies
 The project relies on the following libraries:                                                                                          
 1.NumPy                                                                                                                                 
